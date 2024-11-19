@@ -31,58 +31,31 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-  ![read csv](https://github.com/user-attachments/assets/ff0b978e-3ae8-459e-be67-7087fcf046e4)
-  ![sklearn](https://github.com/user-attachments/assets/28096974-bfe5-40c7-894c-3fa2b9905171)
-  ![Screenshot 2024-11-14 182010](https://github.com/user-attachments/assets/01840257-0985-4bcb-a678-ee2911aaa2aa)
-  ![Screenshot 2024-11-14 182037](https://github.com/user-attachments/assets/45e54bf2-9af5-4af0-be56-d6c3cb5e1526)
-  ![Screenshot 2024-11-14 182058](https://github.com/user-attachments/assets/48f77ecf-18f1-48bd-95da-f92df776c93f)
-  ![Screenshot 2024-11-14 182122](https://github.com/user-attachments/assets/a93586ce-3072-49a1-9903-65128f67a9ee)
-  ![Screenshot 2024-11-14 182159](https://github.com/user-attachments/assets/e218bb52-4a67-4673-8b79-4c1a508cb52d)
-  ![Screenshot 2024-11-14 182236](https://github.com/user-attachments/assets/c1b8d767-c07f-4e52-b370-40473ff40723)
-  ![Screenshot 2024-11-14 182325](https://github.com/user-attachments/assets/39e874c3-6056-4a94-b9c6-97d53643954f)
-  ![Screenshot 2024-11-14 182357](https://github.com/user-attachments/assets/a8f4f339-fbe6-4281-8509-2ded5cf1d13d)
-  ![Screenshot 2024-11-14 182431](https://github.com/user-attachments/assets/d5f4bf04-d352-4b40-9ad7-1ae9f2313ef7)
-  ![Screenshot 2024-11-14 182452](https://github.com/user-attachments/assets/c035934b-2a80-4d9e-ba7f-9bd174d4c76c)
-  ![Screenshot 2024-11-14 182514](https://github.com/user-attachments/assets/0b9d9088-add7-479c-ac32-d8eb69d42b8d)
-  ![Screenshot 2024-11-14 182604](https://github.com/user-attachments/assets/f6f23367-a382-49a8-a792-92a45c981c08)
-  ![Screenshot 2024-11-14 182632](https://github.com/user-attachments/assets/32548680-ec1c-48c0-99a3-7933607cb49c)
-  ![Screenshot 2024-11-14 182700](https://github.com/user-attachments/assets/a142d561-11f6-4164-a663-22d1e2217994)
-  ![Screenshot 2024-11-14 182734](https://github.com/user-attachments/assets/1c950c49-8893-402b-b3e2-f40cd0a4693c)
-  ![Screenshot 2024-11-14 182756](https://github.com/user-attachments/assets/28e853e0-b789-4d44-a5e6-754198152fb4)
-  ![Screenshot 2024-11-14 182756](https://github.com/user-attachments/assets/d225d486-0d84-4fa8-8ed2-caf1f2aeb5dc)
-  ![Screenshot 2024-11-14 182818](https://github.com/user-attachments/assets/ef202ac3-db7d-4c85-bb7e-4b0111204c1e)
-  ![Screenshot 2024-11-14 182837](https://github.com/user-attachments/assets/6a84fd8f-efeb-405a-83a5-d58999f1a331)
-  ![Screenshot 2024-11-14 182856](https://github.com/user-attachments/assets/114a9ad4-52f2-497b-bf5c-6cfe2f5c8178)
-  ![Screenshot 2024-11-14 182919](https://github.com/user-attachments/assets/7026bb2a-04ab-456b-b42d-a3676aabdcd6)
-  ![Screenshot 2024-11-14 183111](https://github.com/user-attachments/assets/2ff7f4ed-e1aa-4d67-a3bc-2a5d6da574c3)
-  ![Screenshot 2024-11-15 143624](https://github.com/user-attachments/assets/8be42b58-2ec8-45b3-882f-0ef218b21a72)
-  ![image](https://github.com/user-attachments/assets/5b88bc68-8840-4b17-b23f-50b02bb99fb3)
 
 
+![Screenshot 2024-11-19 100910](https://github.com/user-attachments/assets/70599565-9f95-482e-ad8a-9bc1ba5e26e2)
+![Screenshot 2024-11-19 100931](https://github.com/user-attachments/assets/7c24c815-cb3a-4b28-8ebb-c4d9166deeb0)
+![Screenshot 2024-11-19 100944](https://github.com/user-attachments/assets/2b03bd6d-2667-4283-95c0-f2a938218a61)
+![Screenshot 2024-11-19 101000](https://github.com/user-attachments/assets/2d481f8b-a3ef-409f-8e04-ad3b263ac505)
+![Screenshot 2024-11-19 101015](https://github.com/user-attachments/assets/3e243de5-868c-40f2-9535-0f5be62b4b7f)
+![Screenshot 2024-11-19 101220](https://github.com/user-attachments/assets/006c70d4-c357-4002-805f-37b9ac815260)
+![Screenshot 2024-11-19 101235](https://github.com/user-attachments/assets/bde4051d-3289-4b20-a9eb-355a514cf74e)
+![Screenshot 2024-11-19 101249](https://github.com/user-attachments/assets/adc0a3d4-8198-4908-914b-66dd62c9266a)
+![Screenshot 2024-11-19 101302](https://github.com/user-attachments/assets/d4f9f992-fe9a-455a-8fc5-1a2567df2e1a)
+![Screenshot 2024-11-19 101314](https://github.com/user-attachments/assets/3306eb87-4dee-42a3-ab75-f9854c93492d)
+![Screenshot 2024-11-19 101326](https://github.com/user-attachments/assets/499ceea9-ea25-4759-99bd-a4975cdb8dc8)
+![Screenshot 2024-11-19 101345](https://github.com/user-attachments/assets/27d2b086-70ce-4a38-a337-017ce9e82c73)
+![Screenshot 2024-11-19 101400](https://github.com/user-attachments/assets/8fbb0d9e-9342-4572-9cc1-4097b8519ef3)
+![Screenshot 2024-11-19 101416](https://github.com/user-attachments/assets/5b0d165b-3a3f-4e17-8ac7-c348b1a096ad)
+![Screenshot 2024-11-19 101429](https://github.com/user-attachments/assets/9245972b-8fa6-4883-b3f8-a612a463c835)
+![Screenshot 2024-11-19 101438](https://github.com/user-attachments/assets/8ae91d38-5760-4c9f-99c9-70674f82c7ef)
+![Screenshot 2024-11-19 101448](https://github.com/user-attachments/assets/86177c5a-f02a-4f76-8f59-dcba171727e8)
+![Screenshot 2024-11-19 101456](https://github.com/user-attachments/assets/66c69e79-0212-4081-ae15-b266ccd260a7)
+![Screenshot 2024-11-19 101504](https://github.com/user-attachments/assets/bf1b0cec-e13b-4374-9c19-aac416e16811)
+![Screenshot 2024-11-19 101517](https://github.com/user-attachments/assets/70af6ca5-1a85-450a-aff4-4aae8efb5473)
+![Screenshot 2024-11-19 101530](https://github.com/user-attachments/assets/a0ecc985-2d8b-4dda-8afc-9f1f3948777b)
+![Screenshot 2024-11-19 101542](https://github.com/user-attachments/assets/fb2c37c9-5dee-4177-88b7-f6aa7205b189)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-       
 
 # RESULT:
      Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
